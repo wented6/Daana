@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=
+token=NTc0NTM3ODYyNTk5NjcxODA5.XM62RQ.B7uo6K2wzqkYg-fITpTT1OIB5B0
+owner=566047058910248960
+prefix=Da
+game= Danaaa.
 stayinchannel=true
 songinstatus=false
